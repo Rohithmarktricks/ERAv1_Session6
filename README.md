@@ -32,7 +32,7 @@ The Simple Neural Network is as follows.
 
 
 ### Solution
-1. Please Refer to the ```Assignment1.xlsx``` spreadsheet from ```s3``` folder for the solution. 
+1. Please Refer to the ```Assignment1.xlsx``` spreadsheet from ```S6``` folder for the solution. 
 2. However, the images/screenshots have been attached.
 
 ![alt text](/imgs/lr_0.1.png): The values computed for learning rate = 0.1
